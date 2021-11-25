@@ -6,7 +6,7 @@
  <B>[~] My aim is to be a top cyber security researcher of the whole world.<br><br></B>
 
 <h3 align="left"> Wanna contact with me?? </h3>
-<li><a href="https://www.facebook.com/nulls0ul.official/">Facebook Profile</a></li>
+<li><a href="https://www.facebook.com/nulls0ul.69/">Facebook Profile</a></li>
 <li><a href="https://www.facebook.com/nulls0ul.ofc/">Facebook Page</a></li>
 <li><a href="https://t.me/NullS0UL">Telegram</a></li>
 
